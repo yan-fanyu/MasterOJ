@@ -29,6 +29,7 @@ int main()
       if(ansvec[i] == s.substr(j, 1)){
         num++;
       }
+      //HAHAH
     }
     ansnum[i] = num;
   }
